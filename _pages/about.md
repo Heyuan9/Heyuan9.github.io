@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a second-year M.S. student at Yale University working on Natural Language Processing, advised by Prof. [Arman Cohan](https://armancohan.com/). I completed my B.S. degree in Statistics (Data Science and Artificial Intelligence) at Shandong University. I have broad interests in machine learning, natural language processing, and applied mathematics and statistics, especially in health, social, and business applications. I regard many practical problems as an optimization problem with partially observed data, referring to Reinforcement Learning definitions. How to make the most use of the limited data and how to maximize the quantified outcome through simple, elegant ideas and rigorous definitions are my primary focuses during research. 
+Hello, I am a second-year M.S. student at Yale University working on Natural Language Processing, advised by Prof. [Arman Cohan](https://armancohan.com/). I completed my B.S. degree in Statistics (Data Science and Artificial Intelligence) at Shandong University. I have broad interests in machine learning, natural language processing, and applied mathematics and statistics, especially in health, social, and business applications. I regard many practical problems as an optimization problem with partially observed data. How to make the most use of the limited data and how to maximize the quantified outcome through simple, elegant ideas and rigorous definitions are my primary focuses during research. 
 
 My current research interests include (take health applications for example):
 * Information Extraction and Affective Computing: extract user's current physical and mental state, personality, ideology, preferences, and interests through texts, signals, and images.
