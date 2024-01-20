@@ -24,8 +24,10 @@ To scale up affordable and accessible healthcare services in mental therapy, I e
 
 ## Publications
 [Medical Text Simplification: Optimizing for Readability with Unlikelihood Training and Reranked Beam Search Decoding](https://aclanthology.org/2023.findings-emnlp.322/)
+
 Lorenzo Jaime Yu Flores, **Heyuan Huang**, Kejian Shi, Sophie Chheang, and Arman Cohan
-EMNLP 2023 Findings [code](https://github.com/HeYuan919/simplification-project)
+
+EMNLP 2023 Findings / [code](https://github.com/HeYuan919/simplification-project)
 
 ## Miscellaneous
 I love to help people take photos and my aesthetic composition always gives them happiness and touching feelings during traveling and daily life.
