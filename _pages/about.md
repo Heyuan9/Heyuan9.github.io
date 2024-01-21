@@ -31,6 +31,7 @@ EMNLP 2023 Findings / [code](https://github.com/HeYuan919/simplification-project
 
 ## Teaching
 Teaching Assistant in CPSC 477/577 Natural Language Processing, Yale University, Jan/2024 - May/2024
+
 Teaching Assistant in Probability Theory, Shandong University, Sep/2019 - Jan/2020
 
 ## Miscellaneous
