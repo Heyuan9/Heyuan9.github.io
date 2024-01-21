@@ -39,5 +39,5 @@ I love to help people take photos and my aesthetic composition always gives them
 
 My parents raised a dog during my undergraduate time. She is 5 years old now and has a similar personality to mine when I was a kid... 🤨
 
-My favorite book and musical is Les Misérables by Victor Hugo.
+My favorite book and its adapted musical is Les Misérables by Victor Hugo.
 
