@@ -29,8 +29,14 @@ Lorenzo Jaime Yu Flores, **Heyuan Huang**, Kejian Shi, Sophie Chheang, and Arman
 
 EMNLP 2023 Findings / [code](https://github.com/HeYuan919/simplification-project)
 
+## Teaching
+Teaching Assistant in CPSC 477/577 Natural Language Processing, Yale University, Jan/2024 - May/2024
+Teaching Assistant in Probability Theory, Shandong University, Sep/2019 - Jan/2020
+
 ## Miscellaneous
 I love to help people take photos and my aesthetic composition always gives them happiness and touching feelings during traveling and daily life.
 
-My parents raised a dog during my undergraduate time. She is 5 years old now and has a similar personality to mine when I was a kid... 
+My parents raised a dog during my undergraduate time. She is 5 years old now and has a similar personality to mine when I was a kid... 🤨
+
+My favorite book and musical is Les Misérables by Victor Hugo.
 
