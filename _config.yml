@@ -83,7 +83,7 @@ author:
   name             : "Heyuan Huang"
   avatar           : "avatar.png"
   bio              : "Research in NLP for social good."
-  location         : "New Haven, CT, USA"
+  location         : "Baltimore, MD, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_s8LlKUAAAAJ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HeYuan919"
+  github           : #"HeYuan919"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "YuanCosette" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
