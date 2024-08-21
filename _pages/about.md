@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a second-year M.S. student at Yale University working on Natural Language Processing, advised by Prof. [Arman Cohan](https://armancohan.com/). I completed my B.S. degree in Statistics (Data Science and Artificial Intelligence) at Shandong University. I have broad interests in machine learning, natural language processing, and applied mathematics and statistics, especially in health, social, and business applications. I regard many practical problems as an optimization problem with partially observed data. How to make the most use of the limited data and how to maximize the quantified outcome through simple, elegant ideas and rigorous definitions are my primary focuses during research. 
+
+Hello, I am a Computer Science PhD student at Johns Hopkins University [CLSP](https://www.clsp.jhu.edu/) working on Natural Language Processing, advised by Prof. [Mark Dredze](https://www.cs.jhu.edu/~mdredze/). Before joining JHU, I was a student at Yale University, where I first learned and researched NLP under the guidance of Prof. [Arman Cohan](https://armancohan.com/). I have broad interests in machine learning, natural language processing, and applied mathematics and statistics, especially in health, social, and business applications. I regard many practical problems as an optimization problem with partially observed data. How to make the most use of the limited data and how to maximize the quantified outcome through simple, elegant ideas and rigorous definitions are my primary focuses during research. 
 
 My current research interests include (take health applications for example):
 * Information Extraction and Affective Computing: extract user's current physical and mental state, personality, ideology, preferences, and interests through texts, signals, and images.
@@ -31,8 +32,6 @@ EMNLP 2023 Findings / [code](https://github.com/HeYuan919/simplification-project
 
 ## Teaching
 Teaching Assistant in CPSC 477/577 Natural Language Processing, Yale University, Jan/2024 - May/2024
-
-Teaching Assistant in Probability Theory, Shandong University, Sep/2019 - Jan/2020
 
 ## Miscellaneous
 I love to help people take photos and my aesthetic composition always gives them happiness and touching feelings during traveling and daily life.
