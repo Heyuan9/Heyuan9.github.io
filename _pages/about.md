@@ -26,6 +26,13 @@ To scale up affordable and accessible healthcare services in mental therapy, I e
 If you are a student looking for research opportunities in clinical/medical NLP, please fill out this [form](https://goo.gl/forms/XJY3W9TM5jeR6ov23) and email me with your research interest and NLP-related experience.
 
 ## Publications
+
+[MedScore: Generalizable Factuality Evaluation of Free-Form Medical Answers by Domain-adapted Claim Decomposition and Verification](https://arxiv.org/abs/2505.18452)
+
+**Heyuan Huang**, Alexandra DeLucia, Vijay Murari Tiyyala, Mark Dredze
+
+Average Rating at Top 35% of accepted papers at COLM 2025 anonymous review period (Top 11% of all submissions) / [code](https://github.com/Heyuan9/MedScore)
+
 [Medical Text Simplification: Optimizing for Readability with Unlikelihood Training and Reranked Beam Search Decoding](https://aclanthology.org/2023.findings-emnlp.322/)
 
 Lorenzo Jaime Yu Flores, **Heyuan Huang**, Kejian Shi, Sophie Chheang, and Arman Cohan
@@ -33,10 +40,11 @@ Lorenzo Jaime Yu Flores, **Heyuan Huang**, Kejian Shi, Sophie Chheang, and Arman
 EMNLP 2023 Findings / [code](https://github.com/HeYuan919/simplification-project)
 
 ## Teaching
+
 Teaching Assistant in CPSC 477/577 Natural Language Processing, Yale University, Jan/2024 - May/2024
 
 ## Miscellaneous
-I love to help people take photos and my aesthetic composition always gives them happiness and touching feelings during traveling and daily life.
+I love to help people take photos, and my aesthetic composition always gives them happiness and touching feelings during traveling and daily life.
 
 My parents raised a dog during my undergraduate time. She is 5 years old now and has a similar personality to mine when I was a kid... 🤨
 
