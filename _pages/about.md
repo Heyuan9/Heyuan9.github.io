@@ -31,7 +31,7 @@ If you are a student looking for research opportunities in clinical/medical NLP,
 
 **Heyuan Huang**, Alexandra DeLucia, Vijay Murari Tiyyala, Mark Dredze
 
-Average Rating at Top 35% of accepted papers at COLM 2025 anonymous review period (Top 11% of all submissions) / [code](https://github.com/Heyuan9/MedScore)
+Average Rating at Top 35% of **accepted** papers at COLM 2025 anonymous review period (**Top 11% of all** submissions) / [code](https://github.com/Heyuan9/MedScore)
 
 [Medical Text Simplification: Optimizing for Readability with Unlikelihood Training and Reranked Beam Search Decoding](https://aclanthology.org/2023.findings-emnlp.322/)
 
