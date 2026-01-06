@@ -41,6 +41,8 @@ EMNLP 2023 Findings / [code](https://github.com/HeYuan919/simplification-project
 
 ## Teaching
 
+Head TA in Computer Science 601.486/686 Artificial Intelligence System Design and Development, Johns Hopkins University, Aug/2025 - Dec/2025
+
 Teaching Assistant in CPSC 477/577 Natural Language Processing, Yale University, Jan/2024 - May/2024
 
 ## Miscellaneous
