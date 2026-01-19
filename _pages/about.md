@@ -17,6 +17,8 @@ My current research interests include (take the medical domain for example):
 
 * Utilization of Web and Knowledge: Web information is mixed with misinformation and factual information. How can we identify misinformation based on the goal of study and optimally utilize the filtered knowledge to reach our goal?
 
+* Evaluation of Agents and Understanding Model Behaviors
+
 To scale up affordable and accessible healthcare services, I envision one day chatbots can act at a trained clinical expert level to understand, comfort, and guide patients to recover. 
 
 If you are a student looking for research opportunities in clinical/medical NLP, please fill out this [form](https://goo.gl/forms/XJY3W9TM5jeR6ov23) and email me with your research interest and NLP-related experience.
