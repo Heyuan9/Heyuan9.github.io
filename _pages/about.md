@@ -41,6 +41,14 @@ Mahsa Yarmohammadi, Alexandra DeLucia, Lillian C Chen, Leslie Miller, **Heyuan H
 
 Machine Learning for Health 2025 / [code](https://github.com/JHU-CLSP/MedExpert)
 
+
+
+## Service
+
+Conference Reviewer: COLM 2026, ACL 2024
+
+Committee: [CLPsych](https://clpsych.org/) 2025
+
 ## Teaching
 
 Head Teaching Assistant in Computer Science 601.486/686 Artificial Intelligence System Design and Development, Johns Hopkins University, Aug/2025 - Dec/2025
