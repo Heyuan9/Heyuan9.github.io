@@ -11,17 +11,13 @@ redirect_from:
 
 Hello, I am a Computer Science PhD student at Johns Hopkins University Center for Language and Speech Processing ([CLSP](https://www.clsp.jhu.edu/)) working on Natural Language Processing, advised by Prof. [Mark Dredze](https://www.cs.jhu.edu/~mdredze/). Before joining JHU, I was a student at Yale University, where I first learned and researched NLP under the guidance of Prof. [Arman Cohan](https://armancohan.com/). My research interests are natural language processing, and applied mathematics and statistics, especially in health, social, and business applications. I regard many practical problems as an optimization problem with partially observed data. How to make the most use of the limited data and how to maximize the quantified outcome through simple, elegant ideas and rigorous definitions are my primary focuses during research. 
 
-My current research interests include (take health applications for example):
-* Information Extraction and Affective Computing: extract user's current physical and mental state, personality, ideology, preferences, and interests through texts, signals, and images.
+My current research interests include (take the medical domain for example):
 
-* Representation Learning: user/patient dynamic representations through longitudinal, heterogeneous data (e.g. Electronic Health Records, Social Networks, Wearables) and the extracted information.
-  
-* Personalized Treatment: given the resources (action space) and observations (state space), optimize the treatment planning to maximize clinical outcome metrics, with a trade-off between effectiveness and [side-effects, costs, etc.].
-* Empathetic Chatbot: understand the empathy mechanism and improve chatbot's empathetic capacity.
-* Text Generation: summarization and simplification of long complex documents, (e.g. medical/law texts) to promote accessibility for laypeople and reading disorder people.
-* Explainable AI: understand the fairness and bias of models to prevent harm in real-world applications; provide insights into the underlying phenomena and model behaviors; 
+* Evaluation of Open-ended Machine Generated Text: Past evaluations require human-written answers as a gold standard, and compare lexical or semantic similarities of machine-generated text with gold answers. How can we evaluate diverse LLM-generated text with no human annotations? My current work focuses on factuality, completeness, and safety evaluation of LLM answers to patient questions.
 
-To scale up affordable and accessible healthcare services in mental therapy, I envision one day chatbots can act at a trained clinical expert level to understand, comfort, and guide patients to recover. 
+* Utilization of Web and Knowledge: Web information is mixed with misinformation and factual information. How can we identify misinformation based on the goal of study and optimally utilize the filtered knowledge to reach our goal?
+
+To scale up affordable and accessible healthcare services, I envision one day chatbots can act at a trained clinical expert level to understand, comfort, and guide patients to recover. 
 
 If you are a student looking for research opportunities in clinical/medical NLP, please fill out this [form](https://goo.gl/forms/XJY3W9TM5jeR6ov23) and email me with your research interest and NLP-related experience.
 
@@ -39,9 +35,15 @@ Lorenzo Jaime Yu Flores, **Heyuan Huang**, Kejian Shi, Sophie Chheang, and Arman
 
 EMNLP 2023 Findings / [code](https://github.com/HeYuan919/simplification-project)
 
+[MedExpert: An Expert-Annotated Dataset for Medical Chatbot Evaluation](https://openreview.net/pdf?id=rkLAzDPlqL)
+
+Mahsa Yarmohammadi, Alexandra DeLucia, Lillian C Chen, Leslie Miller, **Heyuan Huang**, ..., Mark Dredze
+
+Machine Learning for Health 2025 / [code](https://github.com/JHU-CLSP/MedExpert)
+
 ## Teaching
 
-Head TA in Computer Science 601.486/686 Artificial Intelligence System Design and Development, Johns Hopkins University, Aug/2025 - Dec/2025
+Head Teaching Assistant in Computer Science 601.486/686 Artificial Intelligence System Design and Development, Johns Hopkins University, Aug/2025 - Dec/2025
 
 Teaching Assistant in CPSC 477/577 Natural Language Processing, Yale University, Jan/2024 - May/2024
 
