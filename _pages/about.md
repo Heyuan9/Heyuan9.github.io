@@ -49,7 +49,7 @@ Machine Learning for Health 2025 / [code](https://github.com/JHU-CLSP/MedExpert)
 
 Conference Reviewer: COLM 2026, ACL 2024
 
-Committee: [CLPsych](https://clpsych.org/) 2025
+Program Committee: [CLPsych](https://clpsych.org/) 2025, 2026
 
 ## Teaching
 
