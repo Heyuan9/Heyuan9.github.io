@@ -25,7 +25,7 @@ If you are a student looking for research opportunities in clinical/medical NLP,
 
 ## Publications
 
-[MedScore: Generalizable Factuality Evaluation of Free-Form Medical Answers by Domain-adapted Claim Decomposition and Verification](https://arxiv.org/abs/2505.18452)
+[MedScore: Generalizable Factuality Evaluation of Open-ended Long-form Medical Answers by Domain-adapted Claim Decomposition and Verification](https://aclanthology.org/2026.findings-acl.693/)
 
 **Heyuan Huang**, Alexandra DeLucia, Vijay Murari Tiyyala, Mark Dredze
 
