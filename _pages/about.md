@@ -37,7 +37,7 @@ Lorenzo Jaime Yu Flores, **Heyuan Huang**, Kejian Shi, Sophie Chheang, and Arman
 
 EMNLP 2023 / [code](https://github.com/HeYuan919/simplification-project)
 
-[MedExpert: An Expert-Annotated Dataset for Medical Chatbot Evaluation](https://openreview.net/pdf?id=rkLAzDPlqL)
+[MedExpert: An Expert-Annotated Dataset for Medical Chatbot Evaluation](https://proceedings.mlr.press/v297/yarmohammadi26a.html)
 
 Mahsa Yarmohammadi, Alexandra DeLucia, Lillian C Chen, Leslie Miller, **Heyuan Huang**, ..., Mark Dredze
 
@@ -47,9 +47,9 @@ Machine Learning for Health 2025 / [code](https://github.com/JHU-CLSP/MedExpert)
 
 ## Service
 
-Conference Reviewer: COLM 2026, ACL 2024
+Conference Reviewer: NeurIPS 2026, COLM 2026, ACL 2024
 
-Program Committee: [CLPsych](https://clpsych.org/) 2025, 2026
+Program Committee: [Computational Linguistics and Clinical Psychology (CLPsych)](https://clpsych.org/) 2025, 2026, 2027; [Interpreting Agent Behavior](https://iab-agents.github.io/) 2026
 
 ## Teaching
 
