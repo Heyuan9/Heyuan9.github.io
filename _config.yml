@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Heyuan Huang"
   avatar           : "avatar.png"
-  bio              : "Research in NLP for social good."
+  bio              : "Research in NLP for good."
   location         : "Baltimore, MD, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_s8LlKUAAAAJ"
-  email            : "hhuan134@jh.edu"
+  email            : "hhuan134@jhu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/heyuan-h-39b22822a/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
