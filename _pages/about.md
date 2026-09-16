@@ -13,7 +13,7 @@ Hello, I am a Computer Science PhD student at Johns Hopkins University Center fo
 
 My current research interests include (take the medical domain for example):
 
-* Evaluation of Open-ended Machine Generated Text: Past evaluations require human-written answers as a gold standard, and compare lexical or semantic similarities of machine-generated text with gold answers. How can we evaluate diverse LLM-generated text with no human annotations? My current work focuses on factuality, completeness, and safety evaluation of LLM answers to patient questions.
+* Evaluation of Open-ended Machine-Generated Text: Past evaluations require human-written answers as a gold standard, and compare lexical or semantic similarities of machine-generated text with gold answers. How can we evaluate diverse LLM-generated text with no human annotations? My current work focuses on factuality, completeness, and safety evaluation of LLM answers to patient questions.
 
 * Utilization of Web and Knowledge: Web information is mixed with misinformation and factual information. How can we identify misinformation based on the goal of study and optimally utilize the filtered knowledge to reach our goal?
 
@@ -21,7 +21,9 @@ My current research interests include (take the medical domain for example):
 
 To scale up affordable and accessible healthcare services, I envision one day chatbots can act at a trained clinical expert level to understand, comfort, and guide patients to recover. 
 
-If you are a student looking for research opportunities in clinical/medical NLP, please fill out this [form](https://goo.gl/forms/XJY3W9TM5jeR6ov23) and email me with your research interest and NLP-related experience.
+If you are a student looking for research opportunities in clinical/medical NLP, please fill out this [form](https://goo.gl/forms/XJY3W9TM5jeR6ov23) and email me with your research interest and NLP-related experience/Google Scholar. I usually mentor one student each academic year.
+
+**I am actively seeking a Winter, Spring, or Summer 2027 Internship!**
 
 ## Publications
 
@@ -47,9 +49,9 @@ Machine Learning for Health 2025 / [code](https://github.com/JHU-CLSP/MedExpert)
 
 ## Service
 
-Conference Reviewer: NeurIPS 2026, COLM 2026, ACL 2024
+Conference Reviewer: WWW 2027, NeurIPS 2026, COLM 2026, ACL 2024
 
-Program Committee: [Computational Linguistics and Clinical Psychology (CLPsych)](https://clpsych.org/) 2025, 2026, 2027; [Interpreting Agent Behavior](https://iab-agents.github.io/) 2026
+Program Committee/Area Chair: [Computational Linguistics and Clinical Psychology (CLPsych)](https://clpsych.org/) 2025, 2026, 2027; [Interpreting Agent Behavior](https://iab-agents.github.io/) 2026; [Pacific Symposium on Biocomputing (PSB)](https://psb.stanford.edu/) 2027
 
 ## Teaching
 
@@ -57,10 +59,10 @@ Head Teaching Assistant in Computer Science 601.486/686 Artificial Intelligence 
 
 Teaching Assistant in CPSC 477/577 Natural Language Processing, Yale University, Jan/2024 - May/2024
 
-## Miscellaneous
-I love to help people take photos, and my aesthetic composition always gives them happiness and touching feelings during traveling and daily life.
+## Beyond Research
+I love taking photos for other people, whether we're traveling or just going about an ordinary day. Finding the right frame is my small way of handing someone a moment they'll want to hold on to.
 
-My parents raised a dog during my undergraduate time. She is 5 years old now and has a similar personality to mine when I was a kid... 🤨
+My parents adopted a dog while I was in college. She is 8 years old now and shares a personality with my younger self... 🤨 (My parents adopted another dog when I moved abroad for a graduate degree. He has no similar personality with me.)
 
-My favorite book and its adapted musical is Les Misérables by Victor Hugo.
+My favorite book is Les Misérables by Victor Hugo, and my favorite musicals are its musical adaptation and Maybe Happy Ending.
 
