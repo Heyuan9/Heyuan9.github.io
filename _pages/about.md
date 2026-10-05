@@ -27,17 +27,26 @@ If you are a student looking for research opportunities in clinical/medical NLP,
 
 ## Publications
 
+[Where Does Retrieval-Based Open-Ended Evaluation Fail? Automatic Taxonomy Induction from Long-Form Medical Answer Factuality Verification](https://arxiv.org/abs/2609.30467)
+
+**Heyuan Huang**, Jirui Dai, Alexandra DeLucia, Sonal Joshi, Mahsa Yarmohammadi, Jie Gao, Bernal Jiménez Gutiérrez, Mark Dredze
+
+🏆 Oral Spotlight (Top 4%) at NeurIPS 2026 Generative AI for Healthcare (GenAI4Health) / [code](https://anonymous.4open.science/r/Medical_RAG_eval-4AB5/README.md)
+
 [MedScore: Generalizable Factuality Evaluation of Open-ended Long-form Medical Answers by Domain-adapted Claim Decomposition and Verification](https://aclanthology.org/2026.findings-acl.693/) 
 
 **Heyuan Huang**, Alexandra DeLucia, Vijay Murari Tiyyala, Mark Dredze
 
 ACL 2026 / [code](https://github.com/Heyuan9/MedScore)
 
-[Medical Text Simplification: Optimizing for Readability with Unlikelihood Training and Reranked Beam Search Decoding](https://aclanthology.org/2023.findings-emnlp.322/)
+[How to Interpret Agent Behavior](https://arxiv.org/abs/2605.13625)
+Jie Gao, Kaiser Sun, Jen-tse Huang, Katherine Van Koevering, Sijie Ji, **Heyuan Huang**, Weiyan Shi, Zhuoran Lu, Ziang Xiao, Daniel Khashabi, Mark Dredze
 
-Lorenzo Jaime Yu Flores, **Heyuan Huang**, Kejian Shi, Sophie Chheang, and Arman Cohan
+NeurIPS 2026 / [code](https://github.com/gaojie058/Act-onomy)
 
-EMNLP 2023 / [code](https://github.com/HeYuan919/simplification-project)
+[Same Verdict, Different Reasons: LLM-as-a-Judge and Clinician Disagreement on Medical Chatbot Completeness](https://arxiv.org/abs/2604.16383v1)
+
+Alexandra DeLucia, **Heyuan Huang**, Sonal Joshi, Mahsa Yarmohammadi, Ahmed Hassoon, Mark Dredze
 
 [MedExpert: An Expert-Annotated Dataset for Medical Chatbot Evaluation](https://proceedings.mlr.press/v297/yarmohammadi26a.html)
 
@@ -45,6 +54,11 @@ Mahsa Yarmohammadi, Alexandra DeLucia, Lillian C Chen, Leslie Miller, **Heyuan H
 
 Machine Learning for Health 2025 / [code](https://github.com/JHU-CLSP/MedExpert)
 
+[Medical Text Simplification: Optimizing for Readability with Unlikelihood Training and Reranked Beam Search Decoding](https://aclanthology.org/2023.findings-emnlp.322/)
+
+Lorenzo Jaime Yu Flores, **Heyuan Huang**, Kejian Shi, Sophie Chheang, and Arman Cohan
+
+EMNLP 2023 / [code](https://github.com/HeYuan919/simplification-project)
 
 
 ## Service
