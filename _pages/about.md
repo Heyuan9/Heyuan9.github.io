@@ -40,6 +40,7 @@ If you are a student looking for research opportunities in clinical/medical NLP,
 ACL 2026 / [code](https://github.com/Heyuan9/MedScore)
 
 [How to Interpret Agent Behavior](https://arxiv.org/abs/2605.13625)
+
 Jie Gao, Kaiser Sun, Jen-tse Huang, Katherine Van Koevering, Sijie Ji, **Heyuan Huang**, Weiyan Shi, Zhuoran Lu, Ziang Xiao, Daniel Khashabi, Mark Dredze
 
 NeurIPS 2026 / [code](https://github.com/gaojie058/Act-onomy)
