@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+**I am actively seeking a Spring or Summer 2027 Research Internship!**
 
 Hello, I am a Computer Science PhD student at Johns Hopkins University Center for Language and Speech Processing ([CLSP](https://www.clsp.jhu.edu/)) working on Natural Language Processing, advised by Prof. [Mark Dredze](https://www.cs.jhu.edu/~mdredze/). Before joining JHU, I was a student at Yale University, where I first learned and researched NLP under the guidance of Prof. [Arman Cohan](https://armancohan.com/). My research interests are natural language processing, and applied mathematics and statistics, especially in health, social, and business applications. I regard many practical problems as an optimization problem with partially observed data. How to make the most use of the limited data and how to maximize the quantified outcome through simple, elegant ideas and rigorous definitions are my primary focuses during research. 
 
@@ -23,15 +24,13 @@ To scale up affordable and accessible healthcare services, I envision one day ch
 
 If you are a student looking for research opportunities in clinical/medical NLP, please fill out this [form](https://goo.gl/forms/XJY3W9TM5jeR6ov23) and email me with your research interest and NLP-related experience/Google Scholar. I usually mentor one student each academic year.
 
-**I am actively seeking a Winter, Spring, or Summer 2027 Internship!**
-
 ## Publications
 
 [Where Does Retrieval-Based Open-Ended Evaluation Fail? Automatic Taxonomy Induction from Long-Form Medical Answer Factuality Verification](https://arxiv.org/abs/2609.30467)
 
 **Heyuan Huang**, Jirui Dai, Alexandra DeLucia, Sonal Joshi, Mahsa Yarmohammadi, Jie Gao, Bernal Jiménez Gutiérrez, Mark Dredze
 
-🏆 Oral Spotlight (Top 4%) at NeurIPS 2026 Generative AI for Healthcare (GenAI4Health) / [code](https://anonymous.4open.science/r/Medical_RAG_eval-4AB5/README.md)
+🏆 Oral (Top 4%, Best Paper Finalist) at NeurIPS 2026 Generative AI for Health (GenAI4Health) / [code](https://anonymous.4open.science/r/Medical_RAG_eval-4AB5/README.md)
 
 [MedScore: Generalizable Factuality Evaluation of Open-ended Long-form Medical Answers by Domain-adapted Claim Decomposition and Verification](https://aclanthology.org/2026.findings-acl.693/) 
 
