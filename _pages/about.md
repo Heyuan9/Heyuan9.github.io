@@ -30,7 +30,7 @@ If you are a student looking for research opportunities in clinical/medical NLP,
 
 **Heyuan Huang**, Jirui Dai, Alexandra DeLucia, Sonal Joshi, Mahsa Yarmohammadi, Jie Gao, Bernal Jiménez Gutiérrez, Mark Dredze
 
-🏆 Oral (Top 4%, Best Paper Finalist) at NeurIPS 2026 Generative AI for Health (GenAI4Health) / [code](https://anonymous.4open.science/r/Medical_RAG_eval-4AB5/README.md)
+🏆 Oral (Top 2%, Best Paper Finalist) at NeurIPS 2026 Generative AI for Health (GenAI4Health) / [code](https://anonymous.4open.science/r/Medical_RAG_eval-4AB5/README.md)
 
 [MedScore: Generalizable Factuality Evaluation of Open-ended Long-form Medical Answers by Domain-adapted Claim Decomposition and Verification](https://aclanthology.org/2026.findings-acl.693/) 
 
