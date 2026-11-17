@@ -10,13 +10,13 @@ redirect_from:
 
 **I am actively seeking a Summer, Fall 2027 Research Internship!**
 
-Hello, I am a Computer Science PhD student at Johns Hopkins University Center for Language and Speech Processing ([CLSP](https://www.clsp.jhu.edu/)) working on Natural Language Processing, advised by Prof. [Mark Dredze](https://www.cs.jhu.edu/~mdredze/). Before joining JHU, I was a student at Yale University, where I first learned and researched NLP under the guidance of Prof. [Arman Cohan](https://armancohan.com/). My research interests are natural language processing, and applied mathematics and statistics, especially in health, social, and business applications. I regard many practical problems as an optimization problem with partially observed data. How to make the most use of the limited data and how to maximize the quantified outcome through simple, elegant ideas and rigorous definitions are my primary focuses during research. 
+Hello, I am a Computer Science PhD student at Johns Hopkins University Center for Language and Speech Processing ([CLSP](https://www.clsp.jhu.edu/)) working on Natural Language Processing, advised by Prof. [Mark Dredze](https://www.cs.jhu.edu/~mdredze/). Before joining JHU, I was a student at Yale University, where I first learned and researched NLP under the guidance of Prof. [Arman Cohan](https://armancohan.com/). My research interests are natural language processing, and applied mathematics and statistics, especially in knowledge-intensive domains such as medicine, law, finance.
 
 My current research interests include (take the medical domain for example):
 
-* Evaluation of Open-ended Machine-Generated Text: Past evaluations require human-written answers as a gold standard, and compare lexical or semantic similarities of machine-generated text with gold answers. How can we evaluate diverse LLM-generated text with no human annotations? My current work focuses on factuality, completeness, and safety evaluation of LLM answers to patient questions.
+* Evaluation of Open-ended Machine-Generated Text: Past evaluations require human-written answers as a gold standard, and compare lexical or semantic similarities of machine-generated text with gold answers. How can we evaluate diverse LLM-generated text with no human annotations? My current work focuses on factuality, completeness, and safety evaluation of LLM answers to users' medical questions.
 
-* Utilization of Web and Knowledge: Web information is mixed with misinformation and factual information. How can we identify misinformation based on the goal of study and optimally utilize the filtered knowledge to reach our goal?
+* Utilization of Web and Knowledge: Web information is mixed with misinformation and factual information. How can we identify misinformation based on the goal of the study and optimally utilize the filtered knowledge to reach our goal?
 
 * Evaluation of Agents and Understanding Model Behaviors
 
