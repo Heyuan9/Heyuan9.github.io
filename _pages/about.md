@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am actively seeking a Spring or Summer 2027 Research Internship!**
+**I am actively seeking a Summer, Fall 2027 Research Internship!**
 
 Hello, I am a Computer Science PhD student at Johns Hopkins University Center for Language and Speech Processing ([CLSP](https://www.clsp.jhu.edu/)) working on Natural Language Processing, advised by Prof. [Mark Dredze](https://www.cs.jhu.edu/~mdredze/). Before joining JHU, I was a student at Yale University, where I first learned and researched NLP under the guidance of Prof. [Arman Cohan](https://armancohan.com/). My research interests are natural language processing, and applied mathematics and statistics, especially in health, social, and business applications. I regard many practical problems as an optimization problem with partially observed data. How to make the most use of the limited data and how to maximize the quantified outcome through simple, elegant ideas and rigorous definitions are my primary focuses during research. 
 
